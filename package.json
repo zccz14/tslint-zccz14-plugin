@@ -1,0 +1,16 @@
+{
+  "name": "tslint-zccz14-plugin",
+  "version": "0.1.0",
+  "author": {
+    "email": "zccz14@outlook.com",
+    "name": "zccz14",
+    "url": "https://github.com/zccz14"
+  },
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.9.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
+  }
+}

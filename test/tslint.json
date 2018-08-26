@@ -1,0 +1,9 @@
+{
+  "defaultSeverity": "error",
+  "extends": [],
+  "jsRules": {},
+  "rules": {
+    "protected-module": [true, ["src/common", "src/domain-1/local-common"]]
+  },
+  "rulesDirectory": ["../dist"]
+}

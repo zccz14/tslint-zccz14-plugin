@@ -1,0 +1,1 @@
+export const Domain1CommonFunc = () => {};
